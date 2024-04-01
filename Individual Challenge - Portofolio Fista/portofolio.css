@@ -1,0 +1,26 @@
+nav .container ul li a {
+    font-size: 18px;
+}
+.jumbotron{
+    padding-top: 6rem;
+    background-color: #d3767fd2;
+}
+.rounded-circle{
+    background-color:palevioletred;
+}
+#projects{
+    background-color: #d3767fd2;
+}
+section{
+    padding-top: 5rem;
+
+}
+.border-container{
+    border: 1px solid #d3767fd2;
+    padding: 20px 0 20px ;
+}
+.card{
+    border: 0;
+    
+}
+
